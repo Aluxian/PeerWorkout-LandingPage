@@ -1,0 +1,113 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#logo {
+    width: 80px;
+    padding: 10px 0;
+    cursor: pointer;
+}
+
+nav {
+    margin-top: 35px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    float: left;
+    margin-left: 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+nav ul li:hover {
+    border-bottom: 3px solid #8BC34A;
+    padding-bottom: 1px;
+}
+
+header {
+    background: #fff;
+}
+
+#welcome-section {
+    background: #8BC34A;
+}
+
+#welcome-text {
+    margin-top: 80px;
+    font-size: 35px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+}
+
+#welcome-text-small {
+    font-size: 20px;
+    color: white;
+}
+
+#device-screen-1{
+    width: 180px;
+}
+
+#device-screen-2 {
+    width: 230px;
+}
+
+#device-screen-3 {
+    width: 180px;
+}
+
+.btn {
+    border: 1px #F1F8E9 solid;
+    border-radius: 0;
+    color: #F1F8E9;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    border: 1px #fff solid;
+    color: #fff;
+}
+
+#sign-up {
+    margin-left: 10px;
+}
+
+.btn-row {
+    margin-top: 20px;
+}
+
+#content {
+    background: #DCEDC8;
+    height: 200px;
+}
+
+.section-title {
+    font-size: 20px;
+    color: #33691E;
+    font-weight: 800;
+    margin-top: 20px;
+}
+
+.enum {
+    font-size: 15px;
+    margin-top: 15px;
+    color: #8BC34A;
+    font-weight: 800;
+}
+
+.store-icon {
+    margin-top: 15px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.store-icon img {
+    height: 40px;
+}
